@@ -9,3 +9,7 @@ function add(a, b) {
 function minus(a, b) {
   return a - b;
 }
+
+function multipy(a, b) {
+  return a * b;
+}
