@@ -1,5 +1,5 @@
-function hello() {
-  console.log("hello,world");
+function hello(name) {
+  console.log("hello,", name);
 }
 
-hello();
+hello("yyh123");
